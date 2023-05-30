@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 School
+=======
+VikaS
+>>>>>>> VikaS
