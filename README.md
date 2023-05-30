@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Name
+=======
+VikaN
+>>>>>>> VikaN
